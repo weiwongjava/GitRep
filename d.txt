@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-aaa
-bbb
-ffff
-=======
-aaac
-bbbd
-eeee
->>>>>>> test1
+Abc
